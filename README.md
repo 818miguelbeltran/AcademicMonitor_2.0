@@ -5,7 +5,6 @@ This project models the **evolutionary design process** of a personal productivi
 ---
 
 ## 📈 Project Evolution & Design Iteration
-![Project Evolution Overview](evolutionary-design-overview.png)
 *Visual summary of the Academic Monitor 2.0's journey from a simple tracker to a smart planning and analysis tool.*
 
 ---
@@ -25,7 +24,7 @@ This structured loop transformed a static utility into an adaptive academic plan
 ---
 
 ## 🧩 Stage Analysis
-![Part 1 – Initial Design and Goal Setting](academic-monitor-stage1.png)
+![Stage 1 - Basic Tracker](1_The_Start_W2D2.png)
 *Shows the initial basic tracker design and the transition to accepting new user input for score and goal analysis.*
 
 **Core Features Added**
@@ -38,7 +37,7 @@ Each stage built upon the last, directly addressing the limitations and user pai
 ---
 
 ## 🧱 Key System Upgrades
-![Part 2 – Help Menu and Data Collection Logic](academic-monitor-stage2.png)
+![Stage 2 - Goal Check and Upgrade](2_The_Upgrade_W3D4.png)
 *Focuses on the integration of the built-in help guide and the structured, safety-checked data collection process.*
 
 **1. Onboarding Pattern – Instant Help Guide**
@@ -53,7 +52,7 @@ Each stage built upon the last, directly addressing the limitations and user pai
 ---
 
 ## 🔁 Before & After Comparison
-![Part 3 – Basic Tracker vs. Smart Planner](academic-monitor-stage3.png)
+![Stage 3 - Help Guide and Data Collection](3_The_Help_Guide_W3D5.png)
 *Visual comparison showing how dynamic data input and smart analysis improve the user’s ability to monitor and achieve academic goals.*
 
 ### Before
