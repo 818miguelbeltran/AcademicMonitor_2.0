@@ -59,7 +59,7 @@ Each stage built upon the last, directly addressing the limitations and user pai
 The system provided static feedback ("Keep it up!") without accepting new data or performing goal analysis.
 
 ### After
-The redesigned system integrates dynamic score updates, weak-subject identification, and a structured planning setup — maintaining continuous analysis toward the user's defined academic goal.
+The redesigned system integrates dynamic score updates, weak-subject identification, and a structured planning setup for maintaining continuous analysis toward the user's defined academic goal.
 
 ---
 
