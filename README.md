@@ -1,6 +1,6 @@
 # 📚 Academic Monitoring System (Academic Monitor 2.0)
 
-This project models the **evolutionary design process** of a personal productivity tool using iterative development, feature expansion, and **self-regulation** to achieve specific human-defined academic goals.
+**This project models the evolutionary design process of a personal productivity tool using iterative development, feature expansion, and self-regulation to achieve specific human-defined academic goals.**
 
 ---
 
