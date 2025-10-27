@@ -97,7 +97,7 @@ ADVICE: You are currently 0.20 points below your target
 ## 🔎 Research Context
 
 This project aligns with my ongoing research on **surveillance, algorithmic systems, and social control**.
-By translating self-monitoring into code, *Academic Monitor 2.0* illustrates how **digital systems quantify performance, identify “weakness,” and shape user behavior** through structured feedback loops. It bridges **technical learning (Python logic)** and **sociological inquiry (algorithmic governance)** — showing how metrics, automation, and design can both **empower and discipline** individuals in pursuit of improvement.
+By translating self-monitoring into code, *Academic Monitor 2.0* illustrates how **digital systems quantify performance, identify “weakness,” and shape user behavior** through structured feedback loops. It bridges technical learning **(Python logic)** and sociological inquiry **(algorithmic governance)** showing how metrics, automation, and design can both empower and discipline individuals in pursuit of improvement.
 
 ---
 ## ▶️ Run Instructions
