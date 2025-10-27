@@ -87,10 +87,11 @@ ADVICE: You are currently 0.20 points below your target
 ```
 ---
 ## 🔄 Future Directions
-- **Build Academic Strategy Tools:** I **aim to** expand the system to analyze official course catalogs and syllabi. My goal is to recommend the best **course load and registration choices** to maximize my academic success based on my history.
-- **Implement Personalized Time Planning:** I **plan to** use predictive modeling to analyze assignment weights and my current performance. This allows the system to send **targeted recommendations** on how to distribute my study time across specific subjects for the best grade outcome.
-- **Visualize Future GPA Paths:** I **aim to** integrate data visualization tools (like charts and graphs) to model and display predicted future GPA scenarios. This empowers me to make proactive decisions based on how current effort translates into long-term results.
-- **Address Algorithmic Fairness:** My **aim is to** critically examine the system's logic and data sources. This step ensures the recommendations are **ethical and equitable**, addressing the sociological question of how digital systems influence student behavior fairly.
+
+- **Strategic Course Planning:** I aim to analyze syllabi and course catalogs to recommend the optimal **course load and registration choices** for maximizing my academic success.
+- **Personalized Time Guidance:** I plan to use predictive models to provide **targeted guidance** on distributing study time across specific subjects for the best grade outcome.
+- **Visualize Future Trajectories:** I aim to integrate data visualization to model and display predicted future GPA scenarios, enabling proactive, data-driven decisions.
+- **Address Algorithmic Fairness:** My aim is to critically examine the system’s logic to ensure all recommendations are **ethical and equitable**, and to analyze how digital systems influence student behavior.
 
 ---
 ## 🔎 Research Context
