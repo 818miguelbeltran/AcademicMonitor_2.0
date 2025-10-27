@@ -5,7 +5,7 @@
 ---
 
 ## 📈 Project Evolution & Design Iteration
-*This section highlights the product design lifecycle, tracking its evolution from a basic script to a sophisticated **behavioral feedback system** designed for personal **algorithmic governance.** 
+This section highlights the product design lifecycle, tracking its evolution from a basic script to a sophisticated **behavioral feedback system** designed for personal **algorithmic governance.** 
 
 ---
 
