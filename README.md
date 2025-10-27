@@ -87,10 +87,10 @@ ADVICE: You are currently 0.20 points below your target
 ```
 ---
 ## 🔄 Future Directions
-- Add **data storage** (CSV or JSON) to track progress over time (Enhancing **historical context** for behavioral modeling).
-- Visualize results through **matplotlib or Plotly graphs** (Improving **data visualization** for user insight).
-- Integrate with **AI-driven predictive modeling** for GPA forecasting (Modeling **algorithmic preemption**).
-- Explore **ethical frameworks** for algorithmic evaluation and fairness (Addressing **digital accountability**).
+- **Build Academic Strategy Tools:** I **aim to** expand the system to analyze official course catalogs and syllabi. My goal is to recommend the best **course load and registration choices** to maximize my academic success based on my history.
+- **Implement Personalized Time Planning:** I **plan to** use predictive modeling to analyze assignment weights and my current performance. This allows the system to send **targeted recommendations** on how to distribute my study time across specific subjects for the best grade outcome.
+- **Visualize Future GPA Paths:** I **aim to** integrate data visualization tools (like charts and graphs) to model and display predicted future GPA scenarios. This empowers me to make proactive decisions based on how current effort translates into long-term results.
+- **Address Algorithmic Fairness:** My **aim is to** critically examine the system's logic and data sources. This step ensures the recommendations are **ethical and equitable**, addressing the sociological question of how digital systems influence student behavior fairly.
 
 ---
 ## 🔎 Research Context
