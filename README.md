@@ -64,7 +64,7 @@ The redesigned system integrates dynamic score updates, weak-subject identificat
 ---
 
 ## 💻 Purpose
-This project demonstrates how **iterative design and feature expansion** can be applied to a personal tool to enhance its utility, moving it from a passive tracker to an **active, goal-oriented monitoring system**.
+This project demonstrates how iterative design and feature expansion can be applied to a personal tool to enhance its utility, moving it from a passive tracker to an active, goal-oriented monitoring system.
 
 ---
 
@@ -82,7 +82,7 @@ Compares GPA to target and generates advice:
 ---
 ### 🎨 Sample Output
 ```
-Current GPA: 3.8 Required GPA: 4.0...
+Current GPA: 3.8 Required GPA: 4.0
 STATUS: REVIEW NEEDED ADVICE: You are currently 0.20 points below your target...
 ```
 ---
