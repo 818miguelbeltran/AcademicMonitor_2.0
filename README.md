@@ -7,6 +7,5 @@ A Python CLI tool that tracks GPA progress and provides adaptive study feedback.
 **Language:** Python 3  
 
 ## Overview
-Academic Monitor 2.0 is a command-line tool designed to track GPA performance and provide adaptive study feedback.  
-It demonstrates Python fundamentals including functions, loops, conditional logic, and user input handling.
+Academic Monitor 2.0 is a command-line tool designed to track GPA performance and provide adaptive study feedback. It demonstrates Python fundamentals including functions, loops, conditional logic, and user input handling.
 ...
