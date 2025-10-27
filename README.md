@@ -76,7 +76,8 @@ It integrates **data analysis with a user-friendly interface** to show how custo
 Compares GPA to target and generates advice:
 - **On Track:** Meeting or exceeding goal
 - **Warning:** Near the threshold
-- **Review Needed:** Below goal, with weakest area highlighted
+- **Review Needed:
+- ** Below goal, with weakest area highlighted
 
 ---
 ### 🎨 Sample Output
