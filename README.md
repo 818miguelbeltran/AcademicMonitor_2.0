@@ -24,7 +24,7 @@ This structured loop transformed a static utility into an adaptive academic plan
 ---
 
 ## 🧩 Stage Analysis
-![Stage 1 - Basic Tracker](1_The_Start_W2D2.png)
+![Stage 1 - Basic Tracker](images/1_The_Start_W2D2.png)
 *Shows the initial basic tracker design and the transition to accepting new user input for score and goal analysis.*
 
 **Core Features Added**
