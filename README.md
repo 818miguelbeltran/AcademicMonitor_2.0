@@ -37,7 +37,7 @@ Each stage built upon the last, directly addressing the limitations and user pai
 ---
 
 ## 🧱 Key System Upgrades
-![Stage 2 - Goal Check and Upgrade](2_The_Upgrade_W3D4.png)
+![Stage 2 - Goal Check and Upgrade](images/2_The_Upgrade_W3D4.png)
 *Focuses on the integration of the built-in help guide and the structured, safety-checked data collection process.*
 
 **1. Onboarding Pattern – Instant Help Guide**
@@ -52,7 +52,7 @@ Each stage built upon the last, directly addressing the limitations and user pai
 ---
 
 ## 🔁 Before & After Comparison
-![Stage 3 - Help Guide and Data Collection](3_The_Help_Guide_W3D5.png)
+![Stage 3 - Help Guide and Data Collection](images/3_The_Help_Guide_W3D5.png)
 *Visual comparison showing how dynamic data input and smart analysis improve the user’s ability to monitor and achieve academic goals.*
 
 ### Before
